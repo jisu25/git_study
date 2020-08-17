@@ -6,6 +6,7 @@ public class HelloGit {
 
 		System.out.println("Programmer B");
 		System.out.println("test");
+		System.out.println("BBBBB");
 	}
 
 }
