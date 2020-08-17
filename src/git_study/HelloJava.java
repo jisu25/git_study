@@ -8,6 +8,7 @@ public class HelloJava {
 		System.out.println("new branch hotfix");
 		System.out.println("merged");
 		System.out.println("Hello Java");
+		System.out.println("github 연동");
 		
 	}
 
