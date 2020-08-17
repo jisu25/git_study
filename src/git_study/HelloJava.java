@@ -10,6 +10,7 @@ public class HelloJava {
 		System.out.println("Hello Java");
 		System.out.println("github 연동");
 		
+		System.out.println("A Programmer");
 	}
 
 }
